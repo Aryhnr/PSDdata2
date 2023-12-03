@@ -1,0 +1,21 @@
+project:
+  type: book
+
+book:
+  title: "Klasifikasi HepatitisC"
+  author: "AKH.RAIHAN GIMNASTIAR RAKHMAN 210411100232"
+  date: "12/3/2023"
+  chapters:
+    - index.qmd
+    - PSDtugasdata2.ipynb
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+
